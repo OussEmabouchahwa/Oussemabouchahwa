@@ -1,3 +1,13 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/your-username/github-readme/main/output/contribs-dark.svg"
+  />
+  <img
+    alt="Isometric GitHub contribution chart"
+    src="https://raw.githubusercontent.com/your-username/github-readme/main/output/contribs-light.svg"
+  />
+</picture>
 # 💫 About Me
 🚀 About Me<br> 🎓 First-year Engineering student in Computer Science<br> 💻 Skilled in **system design** and **Adobe Photoshop**<br> 🌐 Experience with **React, Symfony, PHP, and MERN Stack**<br> 📚 Always learning and building new project
 
